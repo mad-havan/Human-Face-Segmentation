@@ -24,4 +24,4 @@ To use the model, follow the instructions in the provided code. Ensure that depe
 # Results
 Feel free to explore the results directory for visualizations, model predictions, and any other relevant outcome data.
 
-# Google Drive Link : https://drive.google.com/drive/folders/1uZ3lE9qYlMUxSKpwzxjqgG6lo41kZNf0?usp=sharing
+Google Drive Link : https://drive.google.com/drive/folders/1uZ3lE9qYlMUxSKpwzxjqgG6lo41kZNf0?usp=sharing
